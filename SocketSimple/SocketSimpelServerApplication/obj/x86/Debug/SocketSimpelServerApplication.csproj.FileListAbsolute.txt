@@ -1,0 +1,20 @@
+D:\__dm10s_SDP\uge33 - dm10x\Torsdag\SocketSimple\SocketSimpelServerApplication\bin\x86\Debug\SocketSimpelServerApplication.exe.config
+D:\__dm10s_SDP\uge33 - dm10x\Torsdag\SocketSimple\SocketSimpelServerApplication\bin\x86\Debug\SocketSimpelServerApplication.exe
+D:\__dm10s_SDP\uge33 - dm10x\Torsdag\SocketSimple\SocketSimpelServerApplication\bin\x86\Debug\SocketSimpelServerApplication.pdb
+D:\__dm10s_SDP\uge33 - dm10x\Torsdag\SocketSimple\SocketSimpelServerApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\__dm10s_SDP\uge33 - dm10x\Torsdag\SocketSimple\SocketSimpelServerApplication\obj\x86\Debug\SocketSimpelServerApplication.exe
+D:\__dm10s_SDP\uge33 - dm10x\Torsdag\SocketSimple\SocketSimpelServerApplication\obj\x86\Debug\SocketSimpelServerApplication.pdb
+D:\__dm13_VinterDK_SDP\work\SocketSimple\SocketSimpelServerApplication\bin\x86\Debug\SocketSimpelServerApplication.exe.config
+D:\__dm13_VinterDK_SDP\work\SocketSimple\SocketSimpelServerApplication\obj\x86\Debug\SocketSimpelServerApplication.exe
+D:\__dm13_VinterDK_SDP\work\SocketSimple\SocketSimpelServerApplication\obj\x86\Debug\SocketSimpelServerApplication.pdb
+D:\__dm13_VinterDK_SDP\work\SocketSimple\SocketSimpelServerApplication\bin\x86\Debug\SocketSimpelServerApplication.exe
+D:\__dm13_VinterDK_SDP\work\SocketSimple\SocketSimpelServerApplication\bin\x86\Debug\SocketSimpelServerApplication.pdb
+D:\_NY_3_SEM\Uge 34\SocketSimple\SocketSimpelServerApplication\bin\x86\Debug\SocketSimpelServerApplication.exe.config
+D:\_NY_3_SEM\Uge 34\SocketSimple\SocketSimpelServerApplication\obj\x86\Debug\SocketSimpelServerApplication.exe
+D:\_NY_3_SEM\Uge 34\SocketSimple\SocketSimpelServerApplication\obj\x86\Debug\SocketSimpelServerApplication.pdb
+C:\Users\Søren\Downloads\SocketSimple\SocketSimple\SocketSimpelServerApplication\bin\x86\Debug\SocketSimpelServerApplication.exe.config
+C:\Users\Søren\Downloads\SocketSimple\SocketSimple\SocketSimpelServerApplication\obj\x86\Debug\SocketSimpelServerApplication.exe
+C:\Users\Søren\Downloads\SocketSimple\SocketSimple\SocketSimpelServerApplication\obj\x86\Debug\SocketSimpelServerApplication.pdb
+C:\Users\Søren\Downloads\SocketSimple\SocketSimple\SocketSimpelServerApplication\bin\x86\Debug\SocketSimpelServerApplication.exe
+C:\Users\Søren\Downloads\SocketSimple\SocketSimple\SocketSimpelServerApplication\bin\x86\Debug\SocketSimpelServerApplication.pdb
+C:\Users\Søren\Downloads\SocketSimple\SocketSimple\SocketSimpelServerApplication\obj\x86\Debug\SocketSimpelServerApplication.csprojResolveAssemblyReference.cache

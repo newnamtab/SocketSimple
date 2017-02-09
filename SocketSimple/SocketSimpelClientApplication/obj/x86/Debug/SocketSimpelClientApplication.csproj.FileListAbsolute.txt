@@ -1,0 +1,14 @@
+D:\__dm10s_SDP\uge33 - dm10x\Torsdag\SocketSimple\SocketSimpelClientApplication\bin\x86\Debug\SocketSimpelClientApplication.exe.config
+D:\__dm10s_SDP\uge33 - dm10x\Torsdag\SocketSimple\SocketSimpelClientApplication\bin\x86\Debug\SocketSimpelClientApplication.exe
+D:\__dm10s_SDP\uge33 - dm10x\Torsdag\SocketSimple\SocketSimpelClientApplication\bin\x86\Debug\SocketSimpelClientApplication.pdb
+D:\__dm10s_SDP\uge33 - dm10x\Torsdag\SocketSimple\SocketSimpelClientApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\__dm10s_SDP\uge33 - dm10x\Torsdag\SocketSimple\SocketSimpelClientApplication\obj\x86\Debug\SocketSimpelClientApplication.exe
+D:\__dm10s_SDP\uge33 - dm10x\Torsdag\SocketSimple\SocketSimpelClientApplication\obj\x86\Debug\SocketSimpelClientApplication.pdb
+D:\__dm13_VinterDK_SDP\work\SocketSimple\SocketSimpelClientApplication\bin\x86\Debug\SocketSimpelClientApplication.exe.config
+D:\__dm13_VinterDK_SDP\work\SocketSimple\SocketSimpelClientApplication\bin\x86\Debug\SocketSimpelClientApplication.exe
+D:\__dm13_VinterDK_SDP\work\SocketSimple\SocketSimpelClientApplication\bin\x86\Debug\SocketSimpelClientApplication.pdb
+D:\__dm13_VinterDK_SDP\work\SocketSimple\SocketSimpelClientApplication\obj\x86\Debug\SocketSimpelClientApplication.exe
+D:\__dm13_VinterDK_SDP\work\SocketSimple\SocketSimpelClientApplication\obj\x86\Debug\SocketSimpelClientApplication.pdb
+C:\Users\Søren\Downloads\SocketSimple\SocketSimple\SocketSimpelClientApplication\bin\x86\Debug\SocketSimpelClientApplication.exe.config
+C:\Users\Søren\Downloads\SocketSimple\SocketSimple\SocketSimpelClientApplication\obj\x86\Debug\SocketSimpelClientApplication.exe
+C:\Users\Søren\Downloads\SocketSimple\SocketSimple\SocketSimpelClientApplication\obj\x86\Debug\SocketSimpelClientApplication.pdb
